@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development, Java programming, and software engineering.
 - 🌱 I’m currently learning Java, web development, and data structures & algorithms.
 - 💞️ I’m looking to collaborate on open-source projects, coding challenges, and web applications.
-- 📫 How to reach me: You can reach me on Twitter @JagadishPr39600 or via email at jagadishdrp@gmail.com.
+- 📫 How to reach me: You can reach me via email at jagadishdrp@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built a responsive clone of the Spotify homepage for fun!
